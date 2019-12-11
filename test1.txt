@@ -2,3 +2,4 @@ first line
 second change
 third change
 fourth change
+diff ex

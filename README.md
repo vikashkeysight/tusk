@@ -1,2 +1,0 @@
-# tusk
-my first repository
